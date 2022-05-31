@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Waste Management</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="intro_text_description">Collaborate and Plan Together Across Multiple Devices on Projemanag’s Minimalist Interface.</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="multiple_sign_up_description_text">How would you like to make our city a cleaner and better place to live?</string>
+    <string name="sign_up_user">SIGN UP FOR USER</string>
+    <string name="sign_up_driver">SIGN UP FOR DRIVER</string>
+    <string name="sign_up_admin">SIGN UP FOR ADMIN</string>
+
+    <string name="sign_up_description_text">Enter your name, email id, password and phone number to register with us.</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="number">Phone Number</string>
+    <!--END-->
+
+    <string name="sign_in_description_text">Enter your name and password to login with us.</string>
+
+    <!--TODO (Step 6: Add all the string values here.)-->
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_sign_out">Sign Out</string>
+
+    <string name="mobile">Mobile</string>
+    <string name="update">UPDATE</string>
+    <string name="my_profile">My Profile</string>
+    <string name="menu_description">Welcome User</string>
+
+
+    <!-- (all the string values of garbage content.)-->
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_time">Time</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="btn_text_save">SAVE</string>
+
+    <!--: The string values are added here for Select current location.)-->
+    <string name="add_place_select_current_location_text">SELECT CURRENT LOCATION</string>
+</resources>
